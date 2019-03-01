@@ -21,7 +21,7 @@
 - babel
 
 # Getting Started
-- git clone https://github.com/salgum1114/react-design-editor.git - Clone the project
+- git clone https://github.com/raulerivassanz/react-design-editor.git - Clone the project
 - npm start - Run script
 - http://localhost:8080 - Host access
 
